@@ -1,0 +1,234 @@
+W8929
+
+Amazon.com Services, LLC
+
+Amazon.com Services, Inc._W8929
+					
+Amazon.com Services, Inc._W8929
+213653					
+9213653				Quick Links & Email Addresses	
+5961				Dell Checklist Job Aid	Dell Checklist Job Aid
+Washington				A&H State Variations	A&H Benefit Variations by State
+410 Terry Ave N, Seattle WA  98109				Quick Link to QA Tools	VB CAC QA Submission Tools
+				Email Distribution to QA	QA_Audit_Team@metlife.com
+SAP Bill				After release from QA , forward to Dell	metimplementation@dell.com
+No					
+300000				Notify Dell of approval to release Member level certs	Cert Release Email Template
+					
+
+
+Amazon.com Services, LLC
+
+213653
+
+9213653
+			
+5961
+
+Washington
+
+410 Terry Ave N, Seattle WA 98109
+
+SAP Bill
+
+No
+
+987000
+
+820544687
+
+82-0544687 
+
+			
+        AUTISM BENEFIT     
+        BR @ 65+           
+        BR @ 65 25% 70+    
+        BR @ 65 50% 70+    
+        BR @ 70+           
+        BR @ 70/74 75+     
+        BR @ 70/75 80+     
+        BENEFIT ENHANCEMENT
+        BENIGN TUMOR       
+    Y   CANCER             
+    Y   CARDIO DISEASE     
+    Y   CHILDHOOD DISEASE  
+
+
+    Y   HEART ATTACK                                 
+    Y   INFECTIOUS                                   
+    Y   KIDNEY FAILURE                               
+        LODGING                                      
+    Y   MAJOR ORGAN TRANS                            
+        MAMMOGRAM                                    
+        NCI CANCER CENTER                            
+        OCCUPATIONAL EXP                             
+        OCCUPATIONAL PTSD                            
+    Y   PROGRESSIVE                                  
+        SEVERE BURN                                  
+        SECOND OPINION                               
+    Y   STROKE                                       
+        TRANSPORTATION                               
+        VASCULAR         
+However, the system cannot accommodate only part-time hours   
+
+
+
+For both AX16 and CI19 products, Under customer structure Subcode 0001 is mentioned as Full-Time F, Subcode 0002 as Part-Time H and Subcode 0003 as Reduced-Time R for class 1. However, the system cannot accommodate only part-time hours. Subcode 0004 is mentioned as Flexi X, Subcode 0005 as Intern I, Subcode 0006 as Seasonal M-S,Subcode 0007 as PT Seasonal Q for class 2. Could you please confirm with MET for how to proceed.
+
+
+
+For AX16 and CI19 products, Under customer structure Subcode 0001 is mentioned as "Full-Time Class F", Subcode 0002 as "Part-Time Class H" and Subcode 0003 as "Reduced-Time Class R". However, the system cannot accommodate only part-time hours. Subcode 0004 is mentioned as Flexi X, Subcode 0005 as Intern I, Subcode 0006 as Seasonal M-S,Subcode 0007 as PT Seasonal Q for class 2. Please review the screenshot and could you please confirm with MET for how to proceed.
+
+In the checklist, received with two tabs: one is "NTT Checklist" and other is "NTT Checklist - CI19". However, AX16 information is in the "NTT Checklist" tab. Could you please confirm whether we can take AX16 product information in "NTT checklist" tab. I have attached the screenshot for your review.
+
+In the checklist, received with two tabs one is "NTT Checklist" and another one is "NTT Checklist - CI19". However, in "NTT Checklist - CI19" Eligible # of Lives is given as 987,000 and in "NTT Checklist" Eligible # of Lives is given as 300000. We can't update both "Eligible # of Lives". Could you please confirm with MET which "Eligible # of Lives" need to update in system.
+
+In the checklist, Full time hours and Part time hours mentioned as "No min. hours" for CI19 product in "NTT Checklist - CI19". Please review the screenshot and could you please confirm with MET can we update "0" for both Full time and Part time hours for CI19 product.
+
+1-800-638-2880
+
+Policy Year
+Employer (Standard)
+Amazon.com Services, Inc. Group Health & Welfare Plan
+501
+82-0544687 
+
+All Actively at Work employees, excluding interns and seasonal employees, of the Group Policyholder working in the United States who work a regular Full-Time (class F), Part-Time (class H) or Reduced-Time (class R) schedule in accordance with the Group Policyholder’s work schedule requirements.
+
+01012024          M  1       1       1
+01012024          M  1       1       1
+01012024          M  1       1       1
+01012024          M  1       1       1
+01012024          M  1       1       1
+01012024          M  1       1       1
+
+ACTION L  EMPLOYER ID W8929  CLASS 2    EFF DATE 20240101  PRODUCT HCF 
+
+GROUP POLICY# 00000000000213653 REPLACMNT 1  ENROL FORM Y  RETIREES N  ERISA W
+-FT HRS-   -PT HRS-   C       EMPLYR   E   -WAIT PERIOD-   REHIRE   MAX
+MIN  MAX   MIN  MAX   P   P   CNTRB%   B   CURR    NEW     PERIOD   BEN%
+  0    0     0    0   N   B            A     0 D     0 D     0 D      0 
+                             PE     PE    TOT    UW   SOPT S  OOC N  LIND N 
+PLAN/OPT  TIER CVT  FI  DP  PRIOR  AFTER  MULT  TYPE       GROUP COVERAGE AMT
+CIA91  TF   1   A   4   O                 0.000  G         EMPLOYEE:
+CIA92  TF   1   A   4   O                 0.000  G           GI AMT   50000 
+CIA93  TF   1   A   4   O                 0.000  G           MAX SUM        
+
+2    01/01/2024  ALL ACTIVELY AT WORK EMPLOYEES, EXCLUDING INT    CIA91 TF
+
+01012024          M  0       1       1
+01012024          M  0       1       1
+01012024          M  0       1       0
+01012024          M  0       1       1
+01012024          M  0       0.25    0
+01012024          M  0       1       0
+01012024          M  0       1       0
+01012024          M  0       1       0
+01012024          M  0       1       1
+
+*** Accident- 16****
+Non - Standard Riders
+Low  Plans
+24 hour Coverage
+Premiums Deducted Post-Tax
+Annual Enrollments, Report Number : #0213720
+CLASS 1
+Subcode: 0001  -  Full Time Class F 
+Claim Branches:   0001 Active Low - ACC1 - Lodging - $100
+                  0002 Port Low- ACC1 - Lodging - $100
+Subcode: 0002  -  Part Time Class H 
+Claim Branches:   0001 Active Low -ACC2 - Lodging - $100
+                  0002 Port Low - ACC2 - Lodging - $100
+Subcode: 0003  -  Reduced Time Class R 
+Claim Branches:   0001 Active Low - ACC3 - Lodging - $100
+                  0002 Port Low- ACC3 - Lodging - $100
+
+
+*** Accident- 16****
+CLASS 2
+Subcode: 0004  -  Flex Class X
+Claim Branches:   0001 Active Low -ACC1 - Lodging - $100
+                  0002 Port Low - ACC1 - Lodging - $100
+Subcode: 0005  -  Intern Class I
+Claim Branches:   0001 Active Low -ACC2 - Lodging - $100
+                  0002 Port Low - ACC2 - Lodging - $100
+Subcode: 0006  -  Seasonal Class M-S 
+Claim Branches:   0001 Active Low -ACC3 - Lodging - $100
+                  0002 Port Low - ACC3 - Lodging - $100
+Subcode: 0007  -  PT Seasonal Class Q 
+Claim Branches:   0001 Active Low -ACC4 - Lodging - $100
+                  0002 Port Low - ACC4 - Lodging - $100
+                  HSB - Not Included
+                  OSA - Not Included
+                  AD & D - Not included
+                  
+
+*** Accident- 16****
+Takeover - Not Included
+Child Care Benefit - Included
+Benefit reduction - Not Included
+Is MetLife the prior carrier?  N/A
+
+**** Critical Illness 19 - (Attained Age) ****
+Non Standard Riders
+Spouse/Domestic partner are offered 100% and children are offered 50% of
+Employees benefits
+Uni-smoker Rates
+24 Hour Coverage
+Premiums Deducted Post-Tax
+Annual Enrollments
+Report Number : #0213720
+CLASS 1
+Subcode: 0001  -  Full Time Class F 
+Claim Branches:   0001 Active - CIA91 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA91 TF - (10K/15K/20K/25K/30K/40K/50K)
+Subcode: 0002  -  Part Time Class H 
+Claim Branches:   0001 Active - CIA92 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA91 TF - (10K/15K/20K/25K/30K/40K/50K)
+
+**** Critical Illness 19 - (Attained Age) ****
+Subcode: 0003  -  Reduced Time Class R 
+Claim Branches:   0001 Active - CIA93 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA93 TF - (10K/15K/20K/25K/30K/40K/50K)
+CLASS 2
+Subcode: 0004  -  Flex Class X
+Claim Branches:   0001 Active - CIA91 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA91 TF - (10K/15K/20K/25K/30K/40K/50K)
+Subcode: 0005  -  Intern Class I
+Claim Branches:   0001 Active - CIA92 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA92 TF - (10K/15K/20K/25K/30K/40K/50K)
+Subcode: 0006  -  Seasonal Class M-S 
+Claim Branches:   0001 Active - CIA93 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA93 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  Takeover - Included
+                  Prior carrier name - MetLife
+
+
+**** Critical Illness 19 - (Attained Age) ****
+CLASS 2
+Subcode: 0007  -  PT Seasonal Class Q 
+Claim Branches:   0001 Active - CIA94 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  0002 Port - CIA94 TF - (10K/15K/20K/25K/30K/40K/50K)
+                  HSB - Not Included
+                  Benefit redution - Not Included
+                  Pre-existing - Not Included
+                  Is MetLife the prior carrier?  YES
+
+
+*** Accident- 16****
+
+
+
+Policy Year
+Employer (Standard)
+Amazon.com Services, LLC Group Health & Welfare Plan
+501
+82-0544687
+Age as of Decemember 31st of the prior year
+
+
+All Actively at Work employees, excluding interns and seasonal employees, of the Group Policyholder working in the United States who work a regular Full-Time (class F), Part-Time (class H) or Reduced-Time (class R) schedule in accordance with the Group Policyholder’s work schedule requirements.
+
+All Actively at Work employees of the Group Policyholder working in the United States classified as Flex or Flexi (class X), Intern (class I), Seasonal (class M/S), or Part-Time Seasonal (class Q), who work a flexible, seasonal or regular Part-Time schedule in accordance with the Group 
+
+All Actively at Work employees of the Group Policyholder working in the United States classified as Flex or Flexi (class X), Intern (class I), Seasonal (class M/S), or Part-Time Seasonal (class Q), who work a flexible, seasonal or regular Part-Time schedule in accordance with the
